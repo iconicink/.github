@@ -1,6 +1,5 @@
 # 🖋️ IconicInk Project
 
-Welcome to the private repository of **IconicInk**.  
 This codebase is part of proprietary development and is not available for public or commercial use.
 
 ## 🚫 License & Usage Terms
@@ -15,7 +14,7 @@ All code, designs, assets, and documentation in this repository are the **exclus
 - Commercial or personal use without explicit written permission is strictly **prohibited**.
 - Unauthorized use may result in legal action under applicable copyright laws.
 
-For licensing or collaboration inquiries, please contact: **tmxber2022@gmail.com**
+For licensing or collaboration inquiries, please contact: **mxber2022@gmail.com**
 
 ---
 
