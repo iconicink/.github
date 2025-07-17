@@ -1,4 +1,4 @@
-# 🖋️ IconicInk Project
+# IconicInk 
 
 This codebase is part of proprietary development and is not available for public or commercial use.
 
